@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Button } from "antd";
 import PropTypes from "prop-types";
 import defaultImg from "../images/room-1.jpeg";
 
